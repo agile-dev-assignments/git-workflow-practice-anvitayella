@@ -12,3 +12,6 @@ The article I selected is titled "How to write a good software deisgn document."
 Some sections that the article recommends you consider when writing a docuement include: the title and people involved, a project overview, the context of the project/problem, the goals, what the goals are not, milestones, the existing solutions, alternative solutions considered, testability monitoring & alerting, cross team impact, open questions, and a detailed scope and timeline. 
 
 While this may seem like much, some writing tips include adding vial elements like charts/diagrams, using simple words and short sentences, bulleted lists, and concrete examples to explain ambiguity. Finally, whenever possible include numbers to identify the scale of the solution.
+
+## Maggie's Comments
+I have never thought about writing a design doc before, so I'm glad I read this article. It seems like design docs are almost like a project proposal, but with more information about specific implementation of a project. I will keep this article in mind when I write my first design doc!
